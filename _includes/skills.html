@@ -5,7 +5,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Core</div>
         <ul>
-          {% for language in site.data.skills.core %}
+          {% for core in site.data.skills.cores %}
           <li class="skillz__category__item">{{core.item}}</li>
           {% endfor %}
         </ul>
@@ -19,7 +19,7 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Frameworks</div>
+        <div class="skillz__category__label">Frameworks & OS</div>
         <ul>
           {% for framework in site.data.skills.frameworks %}
           <li class="skillz__category__item">{{framework.item}}</li>
