@@ -3,19 +3,27 @@ core:
   - item: Online shopping
   - item: Training
   - item: Nutrition
+  - item: Coaching
+  - item: Public Speaker
+  - item: 
 
-languages:
+languages & OS:
   - item: Dart
   - item: JavaScript
-  - item: HTML
+  - item: D3, HTML & SVG
   - item: CSS/Sass
+  - item: UNIX / MaxOSX
+  - item: Ubuntu / Linux
+  - item: Pop OS, Zorin OS
+  - item: Solus Budgie, KDE Arch
 
 frameworks:
+  - item: Google Cloud Console
+  - item: Firebase 
   - item: Flutter
   - item: React
   - item: Jekyll
   - item: Node
-  - item: D3
   - item: Bulma
   - item: Netlify
   - item: Github Pages
@@ -24,8 +32,9 @@ frameworks:
   - item: Stackblitz
 
 tools:
-  - item: Bash, Zsh & Oh-My-Zsh
-  - item: iterm
+  - item: Bash & Zsh
+  - item: Hyper & Oh-My-Zsh
+  - item: iTerm2 Terminal
   - item: Git, Github, & Gitkraken
   - item: Gulp & Grunt
   - item: Android Studio
@@ -36,3 +45,4 @@ tools:
 design:
   - item: Adobe Photoshop
   - item: Adobe Illustrator
+  - item: Adobe XD

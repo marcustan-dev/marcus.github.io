@@ -1,22 +1,62 @@
 - name: Pink Season
-  url: https://github.com/marcustan-dev/Surf-Videos
-  code: https://github.com/marcustan-dev/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+  url: https://apps.apple.com/us/app/pink-season/id1479880992/
+  code: https://apps.apple.com/us/app/pink-season/id1479880992/
+  description: First official mobile app release for both iOS & Android devices. Pink Season is an app for an LGBT+ festival in Hong Kong celebrating diversity, inclusion, and awareness. This app is my first ever official mobile app release on both the major stores and as a great success kick-off for my new career path advancement in the technology & developer's industry.
   used:
     - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: HTML, SVG & CSS
+    - thing: Restful API
+    - thing: Google Maps API
+    - thing: Firebase
 
-- name: Halcyon Theme
-  url: https://marcustan-dev.github.io/halcyon-site/
-  code: https://github.com/marcustan-dev/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+- name: MTSS.dev
+  url: https://mtss.dev/
+  code: https://sites.google.com/mtss.dev/website/
+  description: A personal website used as a test production & code development. This page was registered using my own personal name as business tradename as per requirements of legal entities and not intended for as a new company setup.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+    - thing: Google Site template
+    - thing: Progressive Web apps
+    - thing: Google Analytics
+    - thing: Google AdSense
+
+- name: IFTTT Applet
+  url: 
+  code: 
+  description: 
+  used:
+    - thing: 
+    - thing: 
+      
+- name: CDN Image Optimazation On-the-Fly
+  url: 
+  code: 
+  description: 
+  used:
+    - thing: 
+    - thing: 
+
+- name: Merchant Online Stock Inventory Mgmt
+  url: 
+  code: 
+  description: Via Google Sheets with multiple users on-the-cloud collaboration with added enhanced automated tools (mass import & export, product image manipulation & transformation, on-trigger html tags generator for product details). 
+  used:
+    - thing: 
+      
+- name: Product/Software User Guide for Online Merchants
+  url: 
+  code: 
+  description: Via Google Sheets with multiple users on-the-cloud collaboration with added enhanced automated tools (mass import & export, product image manipulation & transformation, on-trigger html tags generator for product details)
+  used:
+    - thing: E-commerce
+    - thing: Onboarding
+    - thing: 
+
+- name: Online Promo Campaign Listing
+  url: /TODO/ add image of nano sales banners
+  code: 
+  description: Create marketing collaterals & ad banners for seasonal sales campaign submissions & for mobile EDM push.
+  used:
+    - thing: E-commerce
+    - thing: Marketing
+    - thing: Adobe Photoshop
+    - thing: Adobe Illustrator
