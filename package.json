@@ -1,19 +1,19 @@
 {
-  "name": "brittanychiang.com",
+  "name": "marcustan-dev.github.io",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "  My love for both technology and beautiful design make the web my ideal roadmap for becoming a Front-End Developer.",
   "repository": {
     "type": "git",
     "url": "https://github.com/marcustan-dev/marcustan-dev.github.io"
   },
-  "homepage": "https://github.com/marcustan-dev/marcustan-dev.github.io",
+  "homepage": "https://marcustan-dev.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
     "build": "gulp build"
   },
   "author": "Marcus Tan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
     "browser-sync": "^2.26.7",

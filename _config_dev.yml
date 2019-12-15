@@ -1,7 +1,7 @@
 # Site settings
 name: Marcus Tan
-title: Marcus Tan | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+title: Marcus Tan's Portfolio
+description: My love for both technology and beautiful design make the web my ideal roadmap for becoming a Front-End Developer.
 url: https://marcustan-dev.github.io/
 baseurl: ''
 email: marcus@mtss.dev
@@ -11,16 +11,16 @@ resume: https://marcustan-dev.github.io/resume.pdf
 social:
   - title: email
     url: mailto:marcus@mtss.dev
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+  # - title: twitter
+  #   url: https://twitter.com/marcustan-dev
+  # - title: instagram
+  #   url: https://instagram.com/marcustan-dev
+  # - title: codepen
+  #   url: http://codepen.io/marcustan-dev
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/marcustan-dev
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/marcustanzw
 
 # Build settings
 markdown: kramdown
