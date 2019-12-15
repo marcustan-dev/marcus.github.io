@@ -1,13 +1,12 @@
-core:
+cores:
   - item: E-commerce
   - item: Online shopping
   - item: Training
   - item: Nutrition
   - item: Coaching
   - item: Public Speaker
-  - item: 
 
-languages & OS:
+languages:
   - item: Dart
   - item: JavaScript
   - item: D3, HTML & SVG
