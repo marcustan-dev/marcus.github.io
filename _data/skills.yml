@@ -2,18 +2,27 @@ core:
   - item: E-commerce
   - item: Online shopping
   - item: Training
+  - item: Nutrition
 
 languages:
+  - item: Dart
   - item: JavaScript
   - item: HTML
   - item: CSS/Sass
 
 frameworks:
+  - item: Flutter
   - item: React
   - item: Jekyll
   - item: Node
   - item: D3
-  
+  - item: Bulma
+  - item: Netlify
+  - item: Github Pages
+  - item: Heroku
+  - item: Docker
+  - item: Stackblitz
+
 tools:
   - item: Bash, Zsh & Oh-My-Zsh
   - item: iterm
@@ -23,7 +32,6 @@ tools:
   - item: IntelliJ Idea
   - item: Visual Studio Code
   - item: Xcode 
-  - item: Docker
 
 design:
   - item: Adobe Photoshop
