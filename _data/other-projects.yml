@@ -19,37 +19,24 @@
     - thing: Google Analytics
     - thing: Google AdSense
 
-- name: IFTTT Applet
-  url: 
-  code: 
-  description: 
-  used:
-    - thing: 
-    - thing: 
-      
-- name: CDN Image Optimazation On-the-Fly
-  url: 
-  code: 
-  description: 
-  used:
-    - thing: 
-    - thing: 
-
 - name: Merchant Online Stock Inventory Mgmt
   url: 
   code: 
   description: Via Google Sheets with multiple users on-the-cloud collaboration with added enhanced automated tools (mass import & export, product image manipulation & transformation, on-trigger html tags generator for product details). 
   used:
-    - thing: 
+    - thing: Google Sheets
+    - thing: Mass Editing
+    - thing: E-commerce
       
 - name: Product/Software User Guide for Online Merchants
   url: 
   code: 
   description: Via Google Sheets with multiple users on-the-cloud collaboration with added enhanced automated tools (mass import & export, product image manipulation & transformation, on-trigger html tags generator for product details)
   used:
+    - thing: Marketing
     - thing: E-commerce
     - thing: Onboarding
-    - thing: 
+    - thing: User Guide
 
 - name: Online Promo Campaign Listing
   url: /TODO/ add image of nano sales banners
@@ -60,3 +47,19 @@
     - thing: Marketing
     - thing: Adobe Photoshop
     - thing: Adobe Illustrator
+
+- name: CDN Image Optimazation On-the-Fly
+  url: 
+  code: 
+  description: A widget for easy uploading to CDN server & a quick tool for image editing featuring drag & drop function.
+  used:
+  - thing: Coming Soon
+  - thing: Work in Progress
+
+- name: IFTTT Automation Applet
+  url: 
+  code: 
+  description: Automation applet using "If This Then That" developer platform for smart home devices trigger's and scripts execution.
+  used:
+  - thing: Coming Soon
+  - thing: Work in Progress
