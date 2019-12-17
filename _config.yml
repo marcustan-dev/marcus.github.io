@@ -41,6 +41,11 @@ keep_files:
   - '.git'
   - '.gitignore'
 
+plugins:
+	- jekyll-redirect-from
+	- jekyll-github-metadata
+
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
+	- jekyll-redirect-from

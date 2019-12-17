@@ -44,3 +44,4 @@ keep_files:
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
+	- jekyll-redirect-from
