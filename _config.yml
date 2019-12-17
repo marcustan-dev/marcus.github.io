@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 # Site settings
 name: Marcus Tan
 title: Marcus Tan's Portfolio
@@ -25,6 +24,15 @@ social:
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-github-metadata  
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - 'Gemfile'
@@ -39,13 +47,3 @@ exclude:
 keep_files:
   - 'CNAME'
   - '.git'
-  - '.gitignore'
-
-plugins:
-	- jekyll-redirect-from
-	- jekyll-github-metadata
-
-plugins_dir:
-  - jekyll-minifier
-  - jekyll-sitemap
-	- jekyll-redirect-from
