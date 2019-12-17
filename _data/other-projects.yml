@@ -1,8 +1,10 @@
 - name: Pink Season
   url: https://apps.apple.com/us/app/pink-season/id1479880992/
+  description: An app made for Hong Kong clients to promote diversity, inclusion and awareness among communities.
   code: https://apps.apple.com/us/app/pink-season/id1479880992/
-  description: First official mobile app release for both iOS & Android devices. Pink Season is an app for an LGBT+ festival in Hong Kong celebrating diversity, inclusion, and awareness. This app is my first ever official mobile app release on both the major stores and as a great success kick-off for my new career path advancement in the technology & developer's industry.
   used:
+    - thing: Android
+    - thing: iOS
     - thing: JavaScript
     - thing: HTML, SVG & CSS
     - thing: Restful API
